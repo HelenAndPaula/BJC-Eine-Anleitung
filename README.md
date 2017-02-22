@@ -98,11 +98,27 @@ Bis zum Ende der Stunde machten wir das Lab3 dann noch fertig, was ganz probleml
 <h3>
 <a id="Sti">4. Stichwortverzeichnis</a>
 </h3>
-<p><b><a id="Spr">Sprite</a></b> - Computergrafik, welche die programmierten Aktionen ausführt, beispielsweise Mauszeiger oder Alonso</p>
-<p><b><a id="Cos">Costume</a></b> - auswählbare Computergrafiken, um das Erscheinungsbild des Sprites zu ändern</p>
-<p><b><a id="Scr">Script</a></b> - Abfolge der programmierten Befehlsblöcke, die bestimmte Befehle darstellen</p>
-<p><b><a id="Ope">Operator-Block</a></b> - Block, welcher mathematische Funktionen und Textverarbeitungen ausführt</p>
+<h4>
+C
+</h4>
 <p><b><a id="Con">Control-Block</a></b> - Block, welcher das <i>Script</i> steuert, beispielsweise durch Wiederholungen</p>
-<p><b><a id="Mot">Motion-Block</a></b> - Block, welcher die Bewegung des Sprites steuert</p>
+<p><b><a id="Cos">Costume</a></b> - auswählbare Computergrafiken, um das Erscheinungsbild des Sprites zu ändern</p>
+<h4>
+L
+</h4>
 <p><b><a id="Loo">Looks-Block</a></b> - Block, welcher das Aussehen des Sprites bestimmt</p>
+<h4>
+M
+</h4>
+<p><b><a id="Mot">Motion-Block</a></b> - Block, welcher die Bewegung des Sprites steuert</p>
+<h4>
+O
+</h4>
+<p><b><a id="Ope">Operator-Block</a></b> - Block, welcher mathematische Funktionen und Textverarbeitungen ausführt</p>
+<h4>
+S
+</h4>
+<p><b><a id="Scr">Script</a></b> - Abfolge der programmierten Befehlsblöcke, die bestimmte Befehle darstellen</p>
+<p><b><a id="Spr">Sprite</a></b> - Computergrafik, welche die programmierten Aktionen ausführt, beispielsweise Mauszeiger oder Alonso</p>
+
 <a href="#Zur"><p style="color:blue;"><i>zurück zum Anfang der Seite</i></p></a>

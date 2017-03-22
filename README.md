@@ -67,7 +67,19 @@ Bis zum Ende der Stunde machten wir das Lab3 dann noch fertig, was ganz probleml
 </h4>
 <p>Jasmin und ich haben heute die Grundlage für ein Tic tac toe Spiel programmiert. Dafür haben wir zuerst einmal den Block <mark><i>draw gameboard with _ tiles of _ per row</i></mark> gebaut, mit welchem wir das Spielfeld mit beliebig vielen Feldern zeichnen können.  Als nächstes haben wir eine Kreuz- und eine Kreisgraphik als <i>Costume</i> eingefügt. Diese haben wir in unser Spielscript aufgenommen und dieses so programmiert, dass der Spieler die Kreisgraphik mit der Maus auf das Spielfeld ziehen kann. Nachdem die Grafik losgelassen wird, hinterlässt sie einen Stempel an der Stelle, gleitet zum Startpunkt zurück und wechselt zur nächsten Graphik.<p> <img src="Bilder BJC/Snap.png" alt="Snap" style="width:630px;height:420px;border:420;"></p> Nach beenden des Spiels haben wir rausgefunden, wie man eine Variable erstellt.</p>
 <a href="#Zur"><p style="color:blue;"><i>zurück zum Anfang der Seite</i></p></a>
-
+<h4>
+<p style="text-indent:20px;"><a id="083">08.03.17</a></p>
+</h4>
+<p>Nach dem wir uns in der heutigen Stunde kurz weiter mit ersten Seite des 1. Labs beschäftigt haben, fingen wir mit der nächsten Seite an. Auf Seite zwei wurden sogenannte predicates eingeführt, mit welchen wir die Blöcke <mark><i>even? _</i></mark> und <mark><i>vowel? _</i></mark> gebaut haben. Diese geben jeweils ein true oder false an, je nach dem was eingegeben wird. Ist die eingegebene Zahl beim ersten Block durch 2 teilbar erscheint ein true, ansonsten wird false angezeigt. Beim zweiten Block passiert das gleiche, nur mit Vokalen und Konsonanten. Mithilfe dieser Blöcke konnten wir den Block <mark><i>join "a" or "an" with _</i></mark> erstellen. Dieser Block gibt den richtigen Artikel für das eingegebene Wort an.</p>
+<h4>
+<p style="text-indent:20px;"><a id="093">09.03.17</a></p>
+<p>Heute haben wir uns mit verschiedenen vorgegebenen Scripts auseinandergesetzt und diese nach ihrer möglichen Funktionsweise analysiert. Nachdem wir sie nachgebaut und ausprobiert hatten, sollten wir eigene Scripte bauen, die vorgegebene Kreise in verschiedenen Farben und Größen malen sollten. An bestimmten Stellen im Kreis sollten zum Teil auch Punkte gemacht werden. Da wir anfangs Probleme mit der Koordination der Winkel im Kreis hatten, haben wir für diese Aufgaben etwas länger gebraucht.</p>
+<h4>
+<p style="text-indent:20px;"><a id="143">14.03.17</a></p>
+<p> In der heutigen Stunde haben wir weiter mit der zweiten Seite des 1. Labs beschäftigt. Die nächste Aufgabe war, ein ähnliches Script wie zuvor zu erstellen, welches den Sprite in bestimmten Abständen "another hour has passed" sagen lassen soll, während er wieder einen Kreis mit Punkten malt. Nachdem wir das geschafft hatten, fingen wir mit der nächsten Seite an. Hier wurde uns die List Variable vorgestellt, welche statt mehrerer if-Befehle eingesetzt werden kann. Mit dieser Variable haben wir den vowel? Block vereinfacht darstellen können, indem wir in die Liste die Vokale eingesetzt haben und diese in den if-Befehl gesetzt. Nach erfolgreichem Vereinfachen, konnten wir ein neues Script erstellen, welches anzeigte ob ein beliebig gewählter Buchstabe eines frei wählbaren Wortes ein Vokal ist oder nicht. Außerdem haben wir auch Personalpronomen in eine weitere Liste getan, welche beim Klicken random angezeigt wurden.</p>
+<h4>
+<p style="text-indent:20px;"><a id="164">16.03.17</a></p> 
+<p>Die heutige Aufgabe bestand darin, die list Variable mit dem <mark><i>join "a" or "an" with _ </i></mark> Block zu verknüpfen. In die Liste haben wir zehn verschiedene Tiere eingesetzt und der Block sollte für jedes Tier den passenden Artikel auswählen, je nach Anfangsbuchstaben des Tieres. Mit dieser Aufgabe endete die zweite Seite des 1. Labs. Auf der nächsten Seite sollten wir zuerst den Block  <mark><i>Temperatur state of water _</i></mark> bauen welcher den Agregatzustand von Wasser angibt, je nach eingegebener Temperatur.
 <br>
 <h3>
 <a id="Einf">3. Einführung in das Programmieren mit Snap!</a>

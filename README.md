@@ -10,7 +10,10 @@
 <li><a href="#092">09.02.17</a></li>
 <li><a href="#142">14.02.17</a></li>
 <li><a href="#162">16.02.17</a></li> 
-<li><a href="#222">22.02.17</a></li></ul>
+<li><a href="#222">22.02.17</a></li>
+<li><a href="#232">23.02.17</a></li>
+<li><a href="#013">01.03.17</a></li>
+<li><a href="#023">02.03.17</a></li></ul>
 <li><a href="#Einf">Einführung in das Programmieren mit Snap!</a></li>
 <ul> <li><a href="#U1L1">Programmieren von Lab1: Building an App</a></li>
 <li><a href="#U1L2">Programmieren von Lab2: Sprite Drawing and Interaction</a></li></ul> 
@@ -75,9 +78,36 @@ Bis zum Ende der Stunde machten wir das Lab3 dann noch fertig, was ganz probleml
 <p><img src="Bilder BJC/Gameboard.png" alt="Gameboard" style="width:630px;height:420px;border:420;"></p>
 <p> Denn bei dem letzten <i>Motion-Block</i>, wo es heißt <i>turn 180 degrees</i>, hatten wir in unserem ersten Script stehen, dass er sich in Richtung von 90° wenden sollte. Dies hätte im Falle, wenn der Sprite beim Start nicht genau senkrecht ausgerichtet wäre, zur Folge, dass die nächste Kästchenreihe nicht genau an der vorigen dran wäre. Dadurch dass er sich jetzt um den bestimmten Betrag von 180° drehen soll, kann das nicht mehr passieren.<br> Zudem wollte ich versuchen, dass mithilfe des Programms der Ausgangspunkt für das Spielbrett eigenständig berechnet wird, was allerdings bis zum Ende der Stunde nicht geklappt hat.</p>
 <p><img src="Bilder BJC/Startposition.png" alt="Startposition" style="width:630px;height:420px;border:420;"></p>
- 
 
-<a href="#Zur"><p style="color:blue;"><i>zurück zum Anfang der Seite</i></p></a>
+<h4>
+<p style="text-indent:20px;"><a id="232">23.02.17</a></p>
+</h4>
+<p>Heute haben wir mit der zweiten Seite des Lab4 fortgefahren. Im Grunde ging es darum, dass <i>Gameboard</i> auszubauen, z. B. indem man mehr Kästchen und mehr Reihen einbaut und später sollte der Computer mit dem <i>Script</i> selber ausrechnen, wie groß die Kästchen sein müssen, damit die Gesamtgröße dennoch erhalten bleibt.<br> Am Ende der Doppelstunde waren wir bis auf eine Aufgabe fertig mit der Seite.</p>
+<p><img src="Bilder BJC/Verschiedene_Größen.png " alt="Verschiedene_Größen" style="width:630px;height:420px;border:420;"></p>
+
+<p><img src="Bilder BJC/Versch_Gr_rechnen.png " alt="Versch_Gr_rechnen" style="width:630px;height:420px;border:420;"></p>
+
+
+<h4>
+<p style="text-indent:20px;"><a id="013">01.03.17</a></p>
+</h4>
+<p>In dieser Stunde beendeten wir noch die zweite und letzte Seite des Lab4. Hierbei sollte man den recht allgemeinen Block <i>draw gameboard</i> spezifizieren, sodass man einen Block erhält, der ein Tic Tac Toe Spiel ermöglicht.</p>
+<p><img src="Bilder BJC/TicTacToe.png" alt="TicTacToe" style="width:630px;height:420px;border:420;"></p>
+
+<h4>
+<p style="text-indent:20px;"><a id="023">02.03.17</a></p>
+</h4>
+<p> Da wir uns dazu entschlossen haben Lab5 zu überspringen, da uns die Aufgaben nicht unbedingt zusagten und wir keinen richtigen Nutzen für uns in ihnen sahen, arbeiteten wir ab heute an der zweiten Unit.<br>
+Auf der ersten Seite von Lab1 wurde der <mark><i>if-else-Block</i></mark> eingeführt. Wie der Name schon verrät wird bei diesem Block etwas geprüft. Er funktioniert so, dass, wenn (if) ein bestimmter Zustand zutrifft, eine bestimmte Handlung ausgeführt werden soll. Wenn dies nicht der Fall ist (else) soll eine andere Aktion durchgeführt werden sollen.<br>
+Außerdem wurde der <i>Operator-Block</i> <mark><i>repeat until []</i></mark> eingeführt. Auch hier verrät der Name seine Funktion. Die Handlung wird so lange wiederholt, bis der angegebene Zustand eintritt.</p>
+
+<p><img src="Bilder BJC/2Kreis.png" alt="2Kreis" style="width:630px;height:420px;border:420;"></p>
+
+<p><img src="Bilder BJC/Kreiss.png" alt="Kreiss" style="width:630px;height:420px;border:420;"></p>
+
+<p><img src="Bilder BJC/Hallo.png" alt="Hallo" style="width:630px;height:420px;border:420;"></p>
+
+
 <h4>
 <p style="text-indent:20px;"><a id="083">08.03.17</a></p>
 </h4>
@@ -94,7 +124,9 @@ Bis zum Ende der Stunde machten wir das Lab3 dann noch fertig, was ganz probleml
 <p style="text-indent:20px;"><a id="164">16.03.17</a></p> 
 </h4>
 <p>Die heutige Aufgabe bestand darin, die list Variable mit dem <mark><i>join "a" or "an" with _ </i></mark> Block zu verknüpfen. In die Liste haben wir zehn verschiedene Tiere eingesetzt und der Block sollte für jedes Tier den passenden Artikel auswählen, je nach Anfangsbuchstaben des Tieres. Mit dieser Aufgabe endete die zweite Seite des 1. Labs. Auf der nächsten Seite sollten wir zuerst den Block  <mark><i>Temperatur state of water _</i></mark> bauen welcher den Agregatzustand von Wasser angibt, je nach eingegebener Temperatur. Als nächstes sollten wir Bilder von einer Ampel als neue Sprites verwenden und einen Block bauen, der die Farbe der Ampel ändert. Der Block <mark><i>traffic signal _</i></mark> enthält mehrere if-Befehle und je nachdem, ob man red, yellow oder green eingibt, ändert sich der Sprite zu der Ampel mit der entsprechenden Farbe. Was wir den Sprite machen lassen werden, wenn eine komplett andere Farbe eingegeben wird, wissen wir bis jetzt noch nicht.</p>
+<a href="#Zur"><p style="color:blue;"><i>zurück zum Anfang der Seite</i></p></a>
 <br>
+
 <h3>
 <a id="Einf">3. Einführung in das Programmieren mit Snap!</a>
 </h3>

@@ -9,7 +9,8 @@
 <li><a href="#261">26.01.17</a></li>
 <li><a href="#092">09.02.17</a></li>
 <li><a href="#142">14.02.17</a></li>
-<li><a href="#162">16.02.17</a></li> </ul>
+<li><a href="#162">16.02.17</a></li> 
+<li><a href="#222">22.02.17</a></li></ul>
 <li><a href="#Einf">Einführung in das Programmieren mit Snap!</a></li>
 <ul> <li><a href="#U1L1">Programmieren von Lab1: Building an App</a></li>
 <li><a href="#U1L2">Programmieren von Lab2: Sprite Drawing and Interaction</a></li></ul> 
@@ -66,6 +67,16 @@ Bis zum Ende der Stunde machten wir das Lab3 dann noch fertig, was ganz probleml
 <p style="text-indent:20px;"><a id="162">16.02.17</a></p>
 </h4>
 <p>Jasmin und ich haben heute die Grundlage für ein Tic tac toe Spiel programmiert. Dafür haben wir zuerst einmal den Block <mark><i>draw gameboard with _ tiles of _ per row</i></mark> gebaut, mit welchem wir das Spielfeld mit beliebig vielen Feldern zeichnen können.  Als nächstes haben wir eine Kreuz- und eine Kreisgraphik als <i>Costume</i> eingefügt. Diese haben wir in unser Spielscript aufgenommen und dieses so programmiert, dass der Spieler die Kreisgraphik mit der Maus auf das Spielfeld ziehen kann. Nachdem die Grafik losgelassen wird, hinterlässt sie einen Stempel an der Stelle, gleitet zum Startpunkt zurück und wechselt zur nächsten Graphik.<p> <img src="Bilder BJC/Snap.png" alt="Snap" style="width:630px;height:420px;border:420;"></p> Nach beenden des Spiels haben wir rausgefunden, wie man eine Variable erstellt.</p>
+
+<h4>
+<p style="text-indent:20px;"><a id="222">22.02.17</a></p>
+</h4>
+<p>Da Linda diese Stunde nicht da war, habe ich (Jasmin) noch einmal die Übungen aus der letzten Stunde bearbeitet. Dabei wollte ich alternative, vielleicht sogar geschicktere Lösungen für die zu programmierenden Blöcke finden. Eine kleine Verbesserung hab ich dann auch tatsächlich vorgenommen:</p>
+<p><img src="Bilder BJC/Gameboard.png" alt="Gameboard" style="width:630px;height:420px;border:420;"></p>
+<p> Denn bei dem letzten <i>Motion-Block</i>, wo es heißt <i>turn 180 degrees</i>, hatten wir in unserem ersten Script stehen, dass er sich in Richtung von 90° wenden sollte. Dies hätte im Falle, wenn der Sprite beim Start nicht genau senkrecht ausgerichtet wäre, zur Folge, dass die nächste Kästchenreihe nicht genau an der vorigen dran wäre. Dadurch dass er sich jetzt um den bestimmten Betrag von 180° drehen soll, kann das nicht mehr passieren.<br> Zudem wollte ich versuchen, dass mithilfe des Programms der Ausgangspunkt für das Spielbrett eigenständig berechnet wird, was allerdings bis zum Ende der Stunde nicht geklappt hat.</p>
+<p><img src="Bilder BJC/Startposition.png" alt="Startposition" style="width:630px;height:420px;border:420;"></p>
+ 
+
 <a href="#Zur"><p style="color:blue;"><i>zurück zum Anfang der Seite</i></p></a>
 <h4>
 <p style="text-indent:20px;"><a id="083">08.03.17</a></p>

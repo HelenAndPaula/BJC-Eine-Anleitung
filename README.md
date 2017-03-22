@@ -81,7 +81,7 @@ Bis zum Ende der Stunde machten wir das Lab3 dann noch fertig, was ganz probleml
 <h4>
 <p style="text-indent:20px;"><a id="083">08.03.17</a></p>
 </h4>
-<p>Nach dem wir uns in der heutigen Stunde kurz weiter mit ersten Seite des 1. Labs beschäftigt haben, fingen wir mit der nächsten Seite an. Auf Seite zwei wurden sogenannte predicates eingeführt, mit welchen wir die Blöcke <mark><i>even? _</i></mark> und <mark><i>vowel? _</i></mark> gebaut haben. Diese geben jeweils ein true oder false an, je nach dem was eingegeben wird. Ist die eingegebene Zahl beim ersten Block durch 2 teilbar erscheint ein true, ansonsten wird false angezeigt. Beim zweiten Block passiert das gleiche, nur mit Vokalen und Konsonanten. Mithilfe dieser Blöcke konnten wir den Block <mark><i>join "a" or "an" with _</i></mark> erstellen. Dieser Block gibt den richtigen Artikel für das eingegebene Wort an.</p>
+<p>Nach dem wir uns in der heutigen Stunde kurz weiter mit ersten Seite des 1. Labs beschäftigt haben, fingen wir mit der nächsten Seite an. Auf Seite zwei wurden sogenannte <i><a href="#Pre">Predicates</a></i> eingeführt, mit welchen wir die Blöcke <mark><i>even? _</i></mark> und <mark><i>vowel? _</i></mark> gebaut haben. Diese geben jeweils ein true oder false an, je nach dem was eingegeben wird. Ist die eingegebene Zahl beim ersten Block durch 2 teilbar erscheint ein true, ansonsten wird false angezeigt. Beim zweiten Block passiert das gleiche, nur mit Vokalen und Konsonanten. Mithilfe dieser Blöcke konnten wir den Block <mark><i>join "a" or "an" with _</i></mark> erstellen. Dieser Block gibt den richtigen Artikel für das eingegebene Wort an.</p>
 <h4>
 <p style="text-indent:20px;"><a id="093">09.03.17</a></p>
 </h4>
@@ -141,6 +141,10 @@ M
 O
 </h4>
 <p><b><a id="Ope">Operator-Block</a></b> - Block, welcher mathematische Funktionen und Textverarbeitungen ausführt</p>
+<h4>
+P
+</h4>
+<p><b><a id="Pre">Predicates</a></b> - Reporter, welcher entweder <i>true</i> oder <i>false</i> angibt</p>
 <h4>
 S
 </h4>

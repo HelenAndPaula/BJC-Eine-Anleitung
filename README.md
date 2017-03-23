@@ -248,6 +248,27 @@ Die nächste Aufgabe bestand darin ein Script zu bauen welches immer größer we
 
 Mit dem oben zu sehenden Script ist dies möglich. Erneut wird der <i>for i = _ to _ </i>- Block verwendet. In diesem befindet sich ein repeat Block, welcher mit seinem Inhalt dazu dient, immer größer werdende Quadrate zu zeichnen. Der zweite Teil des Scripts lässt den Sprite erst zu der Stelle x:0 y:0 gehen und von dort aus immer ein bisschen mehr in in negative x- und positive y-Richtung, also nach oben links gehen.
 
+Die nächste Aufgabe bestand erneut darin, ein vorgegebenes Script zu analysieren. 
+
+<p><img src="Bilder BJC/Script3.png" alt="Script3" style="width:630px;height:420px;border:420;"></p>
+
+Da die Variablen tens und ones genannt wurden, konnte davon ausgegangen werden, dass einzelne und zehnerzahlen gemeint waren. Der <i>join</i> Block soll diese beiden kombinieren. Das Script zählt somit die Zahlen von 0 bis 99 auf.
+
+Auf der letzten Seite von Lab3 werden wieder Scripte vorgestellt, die analysiert werden sollen.
+<p><img src="Bilder BJC/Script43.png" alt="Script4" style="width:630px;height:420px;border:420;"></p>
+
+<p><img src="Bilder BJC/Script5.png" alt="Script5" style="width:630px;height:420px;border:420;"></p>
+
+Das erste Script beinhaltet die Variable i, welche von 1 bis zehn geht und in den Looks-Block <i>say _ for 0.5 seconds</i> eingefügt wurde. In diesem befindet sich der Operator-Block <i>letter_ of _ </i>. Dadurch dass in dem ersten input die Variable i enthalten ist, werden die ersten zehn Buchstaben des eingegebenen Satzes einzeln für 0.5 Sekunden genannt.
+
+Das zweite Script funktioniert ähnlich, nur mit dem Unterschied, dass das ganze Script zweimal wiederholt wird und die Variable von 5 bis 3 definiert wurde. Vor der Wiederholung gibt es eine halbe Sekunde Pause.
+
+Die Take It Further Aufgaben beinhalten den neuen Sound-Block <i>play note _ for 0,2 beats</i>. 
+
+<p><img src="Bilder BJC/Sound.png" alt="Sound" style="width:630px;height:420px;border:420;"></p>
+
+Dieses Script wird gestartet sobald die Pfeiltaste nach oben gedrückt wird. Dann fängt der Sprite an von 60 bis 84 zu zählen und bei jeder Zahl einen höheren Ton zu spielen.
+
 <br>
 <a href="#Zur"><p style="color:blue;"><i>zurück zum Anfang der Seite</i></p></a>
 <br>

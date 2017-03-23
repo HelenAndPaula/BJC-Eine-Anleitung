@@ -236,7 +236,7 @@ Die nächste Aufgabe bestand darin ein Script zu bauen welches immer größer we
 
 <p><img src="Bilder BJC/Quadrate.png" alt="Quadrate" style="width:630px;height:420px;border:420;"></p>
 
-<p><img src="Bilder BJC/Script.png" alt="Script" style="width:630px;height:420px;border:420;"></p>
+<p><img src="Bilder BJC/Script2.png" alt="Script2" style="width:630px;height:420px;border:420;"></p>
 
 Mit dem oben zu sehenden Script ist dies möglich. Erneut wird der <i>for i = _ to _ </i>- Block verwendet. In diesem befindet sich ein repeat Block, welcher mit seinem Inhalt dazu dient, immer größer werdende Quadrate zu zeichnen. Der zweite Teil des Scripts lässt den Sprite erst zu der Stelle x:0 y:0 gehen und von dort aus immer ein bisschen mehr in in negative x- und positive y-Richtung, also nach oben links gehen.
 

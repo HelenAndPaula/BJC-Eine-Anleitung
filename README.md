@@ -193,6 +193,8 @@ Die letzte Aufgabe der ersten Seite lautet, ein Quadrat der Seitenlänge von 100
 <p><img src="Bilder BJC/SCript.png" alt="SCript" style="width:315px;height:128px;border:420;"></p>
 <p>Das <i>Script</i> besagt, dass sobald die grüne Flagge angeklickt wurde, der <i>Sprite</i> die x-Position und die y-Position der Maus annehmen soll. Somit wirkt es so, als ob der <i>Sprite</i> der Maus folgen würde. Im <i>Script</i> ist dies in dem <i>Motion-Block</i> <mark><i>go to x:_ y:_</i></mark> und den jeweils eingefügten <i>Sensing-Blöcken</i> <mark><i>mouse x</i></mark> und <mark><i>mouse y</i></mark> wiederzufinden.</p>
 <p> Weiterhin wird verlangt, dass man einen zweiten <i>Sprite</i> kreiert, der stets dem ersten <i>Sprite</i> zugewandt sein soll. Da für die Lösung der Aufgabe in dem Fall bereits wieder recht detaillierte Hilfestelllungen geboten werden, wird hier auf genauere Erklärungen verzichtet. Allerdings wäre anzumerken, dass eine neuer <i>Motion-Block</i> eingeführt wird, nämlich <mark><i>point towards_</i></mark>. In das leere Feld kann man dann reinklicken, sodass man Möglichkeiten aufgelistet bekommt, wohin der ausführende <i>Sprite</i> zeigen soll.</p> 
+<p> Auf dr nächsten Seite wird das vorige <i>Script</i> modifiziert. Zunächst einmal sollen die Aktionen nur noch so lange asgeführt werden, bis sich die <i>Sprites</i>berühren. Dafür muss der vorige <mark><i>forever</i></mark>-Block durch einen <mark><i>repeat until _</i></mark>-Block ersetzt und in das leere Feld nun den <i>Sensing-Block</i> <mark><i>touching <u>Sprite</u>?</i></mark> eingefügt werden.</p>
+<p><img src="Bilder BJC/repeatuntil.png" alt="repeatuntil" style="width:630px;height:420px;border:420;"></p>
 
 <p>[Dieser Teil wird noch fortgesetzt werden.]</p>
 <br>

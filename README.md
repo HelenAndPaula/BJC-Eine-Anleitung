@@ -190,7 +190,7 @@ Nachdem wir das geschafft hatten, fingen wir mit der nächsten Seite an. Hier wu
 Die letzte Aufgabe der ersten Seite lautet, ein Quadrat der Seitenlänge von 100 Pixeln zu zeichnen und darin einen Kreis, der alle vier Seiten berührt.<br> Eine mögliche Lösung dafür wäre folgende:</p>
 <p><img src="Bilder BJC/Snap2.png" alt="Snap2" style="width:630px;height:420px;border:420;"></p>
 <p>Auf der folgenden Seite geht es darum, den <i>Sprite</i> so zu programmieren, dass er einer Bewegung folgt. Die erste Aufgabe lautet, zunächst Vermutungen anzustellen, wie das folgende <i>Script</i> funktioniert, und im Anschluss dieses nachzubauen und auszuprobieren.</p>
-<p><img src="Bilder BJC/SCript.png" alt="SCript" style="width:630px;height:420px;border:420;"></p>
+<p><img src="Bilder BJC/SCript.png" alt="SCript" style="width:315px;height:128px;border:420;"></p>
 <p>Das <i>Script</i> besagt, dass sobald die grüne Flagge angeklickt wurde, der <i>Sprite</i> die x-Position und die y-Position der Maus annehmen soll. Somit wirkt es so, als ob der <i>Sprite</i> der Maus folgen würde. Im <i>Script</i> ist dies in dem <i>Motion-Block</i> <mark><i>go to x:_ y:_</i></mark> und den jeweils eingefügten <i>Sensing-Blöcken</i> <mark><i>mouse x</i></mark> und <mark><i>mouse y</i></mark> wiederzufinden.
 
 <p>[Dieser Teil wird noch fortgesetzt werden.]</p>
@@ -200,7 +200,7 @@ Die letzte Aufgabe der ersten Seite lautet, ein Quadrat der Seitenlänge von 100
 </h4>
 <p>In Lab3 geht es, wie der Name schon sagt, darum seine eigenen Blöcke zu bauen. Dies dient dazu, Scripts, die öfter gebraucht werden könnten, in einem Block zu speichern und somit nicht jedesmal von neuem das Script bauen zu müssen. Außerdem werden weitere Scripts dadurch übersichtlicher. Angefangen wurde mit dem Block <i>draw square</i> welcher aus drei verschiedenen Blöcken besteht. Der <i>move 50 steps</i> und der <i>turn 90 degrees</i>-Block werden in den <i>repeat 4</i>-Block gesetzt, wodurch der Sprite viermal abwechselnd in diesem Fall 50 Schritte macht und sich dann um 90 Grad dreht.
 
-<p><img src="Bilder BJC/draw square.png" alt="draw square" style="width:630px;height:420px;border:420;"></p>
+<p><img src="Bilder BJC/draw square.png" alt="draw square" style="width:315px;height:210px;border:420;"></p>
 
 Ähnlich wird der Block <i>draw triangle</i> gebaut, nur mit dreimaliger Wiederholung und einem Drehwinkel von 120 Grad. Durch Kombination dieser zwei Blöcke wird der nächste Block <i>draw house</i> und der daraus folgende Block <i>draw row of houses</i> erstellt.
 

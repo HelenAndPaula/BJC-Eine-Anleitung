@@ -116,6 +116,11 @@ Außerdem wurde der <i>Operator-Block</i> <mark><i>repeat until []</i></mark> ei
 <p style="text-indent:20px;"><a id="083">08.03.17</a></p>
 </h4>
 <p>Nach dem wir uns in der heutigen Stunde kurz weiter mit ersten Seite des 1. Labs beschäftigt haben, fingen wir mit der nächsten Seite an. Auf Seite zwei wurden sogenannte <i><a href="#Pre">Predicates</a></i> eingeführt, mit welchen wir die Blöcke <mark><i>even? _</i></mark> und <mark><i>vowel? _</i></mark> gebaut haben. Diese geben jeweils ein <i>true</i> oder <i>false</i> an, je nach dem was eingegeben wird. Ist die eingegebene Zahl beim ersten Block durch 2 teilbar erscheint ein <i>true</i>, ansonsten wird <i>false</i> angezeigt. Beim zweiten Block passiert das gleiche, nur mit Vokalen und Konsonanten. Mithilfe dieser Blöcke konnten wir den Block <mark><i>join "a" or "an" with _</i></mark> erstellen. Dieser Block gibt den richtigen Artikel für das eingegebene Wort an.</p>
+
+<p><img src="Bilder BJC/even 1.png" alt="even 1" style="width:630px;height:420px;border:420;"></p>
+
+<p><img src="Bilder BJC/vowel 1.png" alt="vowel 1" style="width:630px;height:420px;border:420;"></p>
+
 <h4>
 <p style="text-indent:20px;"><a id="093">09.03.17</a></p>
 </h4>

@@ -263,7 +263,7 @@ Das erste Script beinhaltet die Variable i, welche von 1 bis zehn geht und in de
 
 Das zweite Script funktioniert ähnlich, nur mit dem Unterschied, dass das ganze Script zweimal wiederholt wird und die Variable von 5 bis 3 definiert wurde. Vor der Wiederholung gibt es eine halbe Sekunde Pause.
 
-Die Take It Further Aufgaben beinhalten den neuen Sound-Block <i>play note _ for 0,2 beats</i>. 
+Die Take It Further Aufgaben beinhalten den neuen <i><a href="#Sou">Sound</a></i>-Block <i>play note _ for 0,2 beats</i>. 
 
 <p><img src="Bilder BJC/Sound.png" alt="Sound" style="width:630px;height:420px;border:420;"></p>
 
@@ -301,6 +301,7 @@ P
 S
 </h4>
 <p><b><a id="Scr">Script</a></b> - Abfolge der programmierten Befehlsblöcke, die bestimmte Befehle darstellen</p>
+<p><b><a id="Sou">Sound-Block</a></b> -Block, welcher Soundeffekte beinhaltet</p>
 <p><b><a id="Spr">Sprite</a></b> - Computergrafik, welche die programmierten Aktionen ausführt, beispielsweise Mauszeiger oder Alonso</p>
 <h4>
 V

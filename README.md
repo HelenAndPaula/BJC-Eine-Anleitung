@@ -216,27 +216,27 @@ Der Block <i>draw row of houses</i> wird durch eine kleine Änderung weiter opti
 <p><img src="Bilder BJC/Polygons 7.png" alt="Polygons 7" style="width:630px;height:420px;border:420;"></p>
 
 Die nächste Seite stellte noch einmal die bereits bekannten <i>repeat</i>-Blöcke vor, so der normale <i>forever</i>-Block, welcher die beinhalteten Blöcke für immer wiederholt, der <i>repeat _ </i>-Block, welcher durch einen input reguliert werden kann und der vorhin bereits erwähnte <i>repeat until _ </i>-Block. Neu ist der <i>for <i>i</i>= _ to _ </i>-Block, welcher die Variable i enthält. Diese wird durch die zwei inputs definiert und beinhaltet dadurch einen wählbaren Zahlenraum. 
-Um die Aufgabe zu lösen, den Sprite die Zahlen 0,2,4,...30 sagen zu lassen, wird der neue Block benutzt, indem der Looks-Block <i>say _ for _ seconds</i> eingefügt wird. Dieser beinhaltet wiederum den Operator-Block <i>_ *_ </i> in welchen, sowohl die Variable i als auch eine 2 eingesetzt werden. Die Variable i im Hauptblock wird definiert von 0 bis 15. Somit wird jede Zahl mit 2 multipliziert und nur diese werden dann für zwei Sekunden von dem Sprite genannt.
+Um die Aufgabe zu lösen, den Sprite die Zahlen 0,2,4,...30 sagen zu lassen, wird der neue Block benutzt, indem der Looks-Block <i>say _ for _ seconds</i> eingefügt wird. Dieser beinhaltet wiederum den Operator-Block <i>_ *_ </i> in welchen, sowohl die Variable i als auch eine 2 eingesetzt werden. Die Variable i im Hauptblock wird definiert von 0 bis 15. Somit wird jede Zahl mit 2 multipliziert und nur diese werden dann für zwei Sekunden von dem Sprite genannt.<br>
 Die nächste Aufgabe gibt ein Script vor, welches analysiert werden soll. 
 
-<p><img src="Bilder BJC/Polygons 7.png" alt="Polygons 7" style="width:630px;height:420px;border:420;"></p>
+<p><img src="Bilder BJC/squirral-script.png" alt="squirral-script" style="width:630px;height:420px;border:420;"></p>
 
 Die Variable i ist in diesem Fall als length bezeichnet und geht von eins bis hundert. Da sich In diesem Block ein move-Block befindet, welcher die Variable mit zwei multipliziert, wird die Strecke die zurückgelegt wird immer größer. Der nächste Befehl ist eine Drehung um 90 Grad, welche zusammen mit der immer größer werdenden Strecke eine quadratischen Spirale entstehen lässt.
 
-<p><img src="Bilder BJC/Polygons 7.png" alt="Polygons 7" style="width:630px;height:420px;border:420;"></p>
+<p><img src="Bilder BJC/Polygons 8.png" alt="Polygons 8" style="width:630px;height:420px;border:420;"></p>
 
 Experimentiert man mit verschiedenen Winkeln, entstehen verdrehte Figuren, da sie keine rechten Winkel mehr besitzen und sich somit immer weiter verschieben.
 
-<p><img src="Bilder BJC/Polygons 7.png" alt="Polygons 7" style="width:630px;height:420px;border:420;"></p>
+<p><img src="Bilder BJC/Polygons 9.png" alt="Polygons 9" style="width:630px;height:420px;border:420;"></p>
 
 Um eine runde Spirale hinzubekommen, müssen der Winkel und der Multiplikationsfaktor sehr klein sein, die Variable muss eine große Spannweite haben.<br>
 
 
 Die nächste Aufgabe bestand darin ein Script zu bauen welches immer größer werdende Quadrate malt, welche sich in keinem Punkt berühren.
 
-<p><img src="Bilder BJC/Polygons 7.png" alt="Polygons 7" style="width:630px;height:420px;border:420;"></p>
+<p><img src="Bilder BJC/Quadrate.png" alt="Quadrate" style="width:630px;height:420px;border:420;"></p>
 
-<p><img src="Bilder BJC/Polygons 7.png" alt="Polygons 7" style="width:630px;height:420px;border:420;"></p>
+<p><img src="Bilder BJC/Script.png" alt="Script" style="width:630px;height:420px;border:420;"></p>
 
 Mit dem oben zu sehenden Script ist dies möglich. Erneut wird der <i>for i = _ to _ </i>- Block verwendet. In diesem befindet sich ein repeat Block, welcher mit seinem Inhalt dazu dient, immer größer werdende Quadrate zu zeichnen. Der zweite Teil des Scripts lässt den Sprite erst zu der Stelle x:0 y:0 gehen und von dort aus immer ein bisschen mehr in in negative x- und positive y-Richtung, also nach oben links gehen.
 

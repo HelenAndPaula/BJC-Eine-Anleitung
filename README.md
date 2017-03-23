@@ -125,6 +125,18 @@ Außerdem wurde der <i>Operator-Block</i> <mark><i>repeat until []</i></mark> ei
 <p style="text-indent:20px;"><a id="093">09.03.17</a></p>
 </h4>
 <p>Heute haben wir uns mit verschiedenen vorgegebenen Scripts auseinandergesetzt und diese nach ihrer möglichen Funktionsweise analysiert. Nachdem wir sie nachgebaut und ausprobiert hatten, sollten wir eigene Scripte bauen, die vorgegebene Kreise in verschiedenen Farben und Größen malen sollten. An bestimmten Stellen im Kreis sollten zum Teil auch Punkte gemacht werden. Da wir anfangs Probleme mit der Koordination der Winkel im Kreis hatten, haben wir für diese Aufgaben etwas länger gebraucht.</p>
+
+<p><img src="Bilder BJC/Kreise 1.png" alt="Kreise 1" style="width:630px;height:420px;border:420;"></p>
+
+<p><img src="Bilder BJC/Kreise 2.png" alt="Kreise 2" style="width:630px;height:420px;border:420;"></p>
+
+<p><img src="Bilder BJC/Kreise 3.png" alt="Kreise 3" style="width:630px;height:420px;border:420;"></p>
+
+<p><img src="Bilder BJC/Kreise 4.png" alt="Kreise 4" style="width:630px;height:420px;border:420;"></p>
+
+<p><img src="Bilder BJC/Kreise 5.png" alt="Kreise 5" style="width:630px;height:420px;border:420;"></p>
+
+<p><img src="Bilder BJC/Kreise 6.png" alt="Kreise 6" style="width:630px;height:420px;border:420;"></p>
 <h4>
 <p style="text-indent:20px;"><a id="143">14.03.17</a></p>
 </h4>

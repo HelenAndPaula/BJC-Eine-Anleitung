@@ -196,7 +196,7 @@ Die letzte Aufgabe der ersten Seite lautet, ein Quadrat der Seitenlänge von 100
 <p> Auf dr nächsten Seite wird das vorige <i>Script</i> modifiziert. Zunächst einmal sollen die Aktionen nur noch so lange asgeführt werden, bis sich die <i>Sprites</i>berühren. Dafür muss der vorige <mark><i>forever</i></mark>-Block durch einen <mark><i>repeat until _</i></mark>-Block ersetzt und in das leere Feld nun den <i>Sensing-Block</i> <mark><i>touching <u>Sprite</u>?</i></mark> eingefügt werden.</p>
 <p><img src="Bilder BJC/repeatuntil.png" alt="repeatuntil" style="width:630px;height:420px;border:420;"></p>
 
-Hier wäre ein<a href="http://bjc.berkeley.edu/index.html">Beipiel</a> hierfür.
+Hier wäre ein<a href="http://snap.berkeley.edu/snapsource/snap.html">Beipiel</a> hierfür.
 
 <p>[Dieser Teil wird noch fortgesetzt werden.]</p>
 <br>

@@ -189,6 +189,9 @@ Nachdem wir das geschafft hatten, fingen wir mit der nächsten Seite an. Hier wu
 <p>Weiter geht es damit, dass man einen Kreis mithilfe des <i>Sprites</i> zeichnen soll. Für die Lösung dieser Aufgabe gibt es zunächst zwei gegebene Tipps, für den Fall, dass man keine Ideen hat. Der Erste besagt, dass ein Kreis eine Art Vieleck ist mit sehr vielen Seiten. Also muss man, um einen Kreis zu zeichnen, verhältnismäßig kleine Seitenlängen und Winkel sehr häufig wiederholen.<br>
 Die letzte Aufgabe der ersten Seite lautet, ein Quadrat der Seitenlänge von 100 Pixeln zu zeichnen und darin einen Kreis, der alle vier Seiten berührt.<br> Eine mögliche Lösung dafür wäre folgende:</p>
 <p><img src="Bilder BJC/Snap2.png" alt="Snap2" style="width:630px;height:420px;border:420;"></p>
+<p>Auf der folgenden Seite geht es darum, den <i>Sprite</i> so zu programmieren, dass er einer Bewegung folgt. Die erste Aufgabe lautet, zunächst Vermutungen anzustellen, wie das folgende <i>Script</i> funktioniert, und im Anschluss dieses nachzubauen und auszuprobieren.</p>
+<p><img src="Bilder BJC/SCript.png" alt="SCript" style="width:630px;height:420px;border:420;"></p>
+<p>Das <i>Script</i> besagt, dass sobald die grüne Flagge angeklickt wurde, der <i>Sprite</i> die x-Position und die y-Position der Maus annehmen soll. Somit wirkt es so, als ob der <i>Sprite</i> der Maus folgen würde. Im <i>Script</i> ist dies in dem <i>Motion-Block</i> <mark><i>go to x:_ y:_</i></mark> und den jeweils eingefügten <i>Sensing-Blöcken</i> <mark><i>mouse x</i></mark> und <mark><i>mouse y</i></mark> wiederzufinden.
 
 <p>[Dieser Teil wird noch fortgesetzt werden.]</p>
 <br>

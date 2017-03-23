@@ -250,14 +250,14 @@ Mit dem oben zu sehenden Script ist dies möglich. Erneut wird der <i>for i = _ 
 
 Die nächste Aufgabe bestand erneut darin, ein vorgegebenes Script zu analysieren. 
 
-<p><img src="Bilder BJC/Script3.png" alt="Script3" style="width:630px;height:420px;border:420;"></p>
+<p><img src="Bilder BJC/Script 3.png" alt="Script 3" style="width:630px;height:420px;border:420;"></p>
 
 Da die Variablen tens und ones genannt wurden, konnte davon ausgegangen werden, dass einzelne und zehnerzahlen gemeint waren. Der <i>join</i> Block soll diese beiden kombinieren. Das Script zählt somit die Zahlen von 0 bis 99 auf.
 
 Auf der letzten Seite von Lab3 werden wieder Scripte vorgestellt, die analysiert werden sollen.
-<p><img src="Bilder BJC/Script43.png" alt="Script4" style="width:630px;height:420px;border:420;"></p>
+<p><img src="Bilder BJC/Script 4.png" alt="Script 4" style="width:630px;height:420px;border:420;"></p>
 
-<p><img src="Bilder BJC/Script5.png" alt="Script5" style="width:630px;height:420px;border:420;"></p>
+<p><img src="Bilder BJC/Script 5.png" alt="Script 5" style="width:630px;height:420px;border:420;"></p>
 
 Das erste Script beinhaltet die Variable i, welche von 1 bis zehn geht und in den Looks-Block <i>say _ for 0.5 seconds</i> eingefügt wurde. In diesem befindet sich der Operator-Block <i>letter_ of _ </i>. Dadurch dass in dem ersten input die Variable i enthalten ist, werden die ersten zehn Buchstaben des eingegebenen Satzes einzeln für 0.5 Sekunden genannt.
 

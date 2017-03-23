@@ -140,7 +140,17 @@ Außerdem wurde der <i>Operator-Block</i> <mark><i>repeat until []</i></mark> ei
 <h4>
 <p style="text-indent:20px;"><a id="143">14.03.17</a></p>
 </h4>
-<p> In der heutigen Stunde haben wir weiter mit der zweiten Seite des 1. Labs beschäftigt. Die nächste Aufgabe war, ein ähnliches Script wie zuvor zu erstellen, welches den Sprite in bestimmten Abständen <i>another hour has passed</i> sagen lassen soll, während er wieder einen Kreis mit Punkten malt. Nachdem wir das geschafft hatten, fingen wir mit der nächsten Seite an. Hier wurde uns der <b><a href="#Var">Variable</a></b>-Block <mark><i>list</i></mark> vorgestellt, welche statt mehrerer if-Befehle eingesetzt werden kann. Mit dieser Variable haben wir den <mark><i>vowel?</i></mark> Block vereinfacht darstellen können, indem wir in die Liste die Vokale eingesetzt haben und diese in den if-Befehl gesetzt. Nach erfolgreichem Vereinfachen, konnten wir ein neues Script erstellen, welches anzeigte ob ein beliebig gewählter Buchstabe eines frei wählbaren Wortes ein Vokal ist oder nicht. Außerdem haben wir auch Personalpronomen in eine weitere Liste getan, welche beim Klicken <i>random</i> angezeigt wurden.</p>
+<p> In der heutigen Stunde haben wir weiter mit der zweiten Seite des 1. Labs beschäftigt. Die nächste Aufgabe war, ein ähnliches Script wie zuvor zu erstellen, welches den Sprite in bestimmten Abständen <i>another hour has passed</i> sagen lassen soll, während er wieder einen Kreis mit Punkten malt.
+
+<p><img src="Bilder BJC/Kreise 7.png" alt="Kreise 7" style="width:630px;height:420px;border:420;"></p>
+Nachdem wir das geschafft hatten, fingen wir mit der nächsten Seite an. Hier wurde uns der <b><a href="#Var">Variable</a></b>-Block <mark><i>list</i></mark> vorgestellt, welche statt mehrerer if-Befehle eingesetzt werden kann. Mit dieser Variable haben wir den <mark><i>vowel?</i></mark> Block vereinfacht darstellen können, indem wir in die Liste die Vokale eingesetzt haben und diese in den if-Befehl gesetzt. Nach erfolgreichem Vereinfachen, konnten wir ein neues Script erstellen, welches anzeigte ob ein beliebig gewählter Buchstabe eines frei wählbaren Wortes ein Vokal ist oder nicht. Außerdem haben wir auch Personalpronomen in eine weitere Liste getan, welche beim Klicken <i>random</i> angezeigt wurden.</p>
+
+<p><img src="Bilder BJC/vowel 2.png" alt="vowel 2" style="width:630px;height:420px;border:420;"></p>
+
+<p><img src="Bilder BJC/pick random letter.png" alt="pick random letter" style="width:630px;height:420px;border:420;"></p>
+
+<p><img src="Bilder BJC/pick random item.png" alt="pick random item" style="width:630px;height:420px;border:420;"></p>
+
 <h4>
 <p style="text-indent:20px;"><a id="164">16.03.17</a></p> 
 </h4>

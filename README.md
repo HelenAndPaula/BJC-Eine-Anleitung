@@ -155,6 +155,11 @@ Nachdem wir das geschafft hatten, fingen wir mit der nächsten Seite an. Hier wu
 <p style="text-indent:20px;"><a id="164">16.03.17</a></p> 
 </h4>
 <p>Die heutige Aufgabe bestand darin, die list Variable mit dem <mark><i>join "a" or "an" with _ </i></mark> Block zu verknüpfen. In die Liste haben wir zehn verschiedene Tiere eingesetzt und der Block sollte für jedes Tier den passenden Artikel auswählen, je nach Anfangsbuchstaben des Tieres. Mit dieser Aufgabe endete die zweite Seite des 1. Labs. Auf der nächsten Seite sollten wir zuerst den Block  <mark><i>Temperatur state of water _</i></mark> bauen welcher den Agregatzustand von Wasser angibt, je nach eingegebener Temperatur. Als nächstes sollten wir Bilder von einer Ampel als neue Sprites verwenden und einen Block bauen, der die Farbe der Ampel ändert. Der Block <mark><i>traffic signal _</i></mark> enthält mehrere if-Befehle und je nachdem, ob man red, yellow oder green eingibt, ändert sich der Sprite zu der Ampel mit der entsprechenden Farbe. Was wir den Sprite machen lassen werden, wenn eine komplett andere Farbe eingegeben wird, wissen wir bis jetzt noch nicht.</p>
+
+<p><img src="Bilder BJC/join a or an.png" alt="join a or an" style="width:630px;height:420px;border:420;"></p>
+
+<p><img src="Bilder BJC/animals.png" alt="animals" style="width:630px;height:420px;border:420;"></p>
+
 <a href="#Zur"><p style="color:blue;"><i>zurück zum Anfang der Seite</i></p></a>
 <br>
 

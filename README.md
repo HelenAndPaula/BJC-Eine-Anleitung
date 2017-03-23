@@ -20,7 +20,8 @@
 <li><a href="#163">16.03.17</a></li></ul>
 <li><a href="#Einf">Einführung in das Programmieren mit Snap!</a></li>
 <ul> <li><a href="#U1L1">Programmieren von Lab1: Building an App</a></li>
-<li><a href="#U1L2">Programmieren von Lab2: Sprite Drawing and Interaction</a></li></ul> 
+<li><a href="#U1L2">Programmieren von Lab2: Sprite Drawing and Interaction</a></li>
+<li><a href="#U1L3">Programmieren von Lab3: Building Your Own Blocks</a></li></ul>
 <li><a href="#Sti">4. Stichwortverzeichnis</a></li></ul>
 
 <h3>

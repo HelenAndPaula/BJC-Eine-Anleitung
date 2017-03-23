@@ -199,9 +199,12 @@ Die letzte Aufgabe der ersten Seite lautet, ein Quadrat der Seitenlänge von 100
 
 <p><img src="Bilder BJC/Pferd.png" alt="Pferd" style="width:630px;height:420px;border:420;"></p>
 
+<p>Aufgrund der ausfürlichen Erklärungen auf der letzten Seite des Labs2 wird hier wiederholt auf weiter ausholende Erklärungen verzichtet. Die Aufgaben handeln davon, dass man beispielsweise <mark><i>repeat</i></mark>-Blöcke ineinander bauen kann, sodass innerhalb einer Schleife eine andere Schleife ausgeführt wird.</p>
 
+<p><img src="Bilder BJC/Dreiecke.png" alt="Dreiecke" style="width:630px;height:420px;border:420;"></p>
 
-<p>[Dieser Teil wird noch fortgesetzt werden.]</p>
+<p><img src="Bilder BJC/Vierecke.png" alt="Vierecke" style="width:630px;height:420px;border:420;"></p>
+
 <br>
 <h4>
 <p style="text-indent:20px;"><a id="U1L3">Programmieren von Lab3: Building Your Own Blocks</a></p>
